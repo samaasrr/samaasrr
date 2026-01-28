@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Hello%2C+my+name+is+Sama Ramadan" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Hello%2C+my+name+is;Sama+Ramadan" alt="Typing SVG" />
 </p>
-
 
 ---
 
