@@ -32,7 +32,7 @@ Computer Science and Psychology student at the University of Guelph with a focus
 
 ---
 
-## Connect With Me
+## Connect With Me!
 <a href="https://www.linkedin.com/in/samaramadan/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
