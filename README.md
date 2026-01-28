@@ -9,7 +9,7 @@ Computer Science and Psychology student with interests in cybersecurity, game de
 
 ---
 
-## Connect
+## Connect with me!
 <p align="left">
   <a href="https://www.linkedin.com/in/samaramadan/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
