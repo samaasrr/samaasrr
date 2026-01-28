@@ -5,7 +5,7 @@
 ---
 
 ##  About Me 
-Computer Science and Psychology student at the University of Guelph with a focus on **cybersecurity**, **system programming**, **game development** and **data analytics**, with interests in **human behavior** and cognitive development!
+ Psychology and Computer Science student at the University of Guelph with a focus on **cybersecurity**, **system programming**, **game development** and **data analytics**, with interests in **human behavior** and cognitive development!
 
 ---
 
