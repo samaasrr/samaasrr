@@ -9,7 +9,9 @@ Computer Science and Psychology student with interests in cybersecurity, game de
 
 ---
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
+## Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/samaramadan/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
