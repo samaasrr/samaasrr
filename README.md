@@ -4,7 +4,7 @@
 Computer Science and Psychology student with interests in cybersecurity, game development, system programming, and data analytics, informed by an understanding of human behavior and cognition.</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,cs,python,pandas,numpy,mysql,git" />
+<img src="https://skillicons.dev/icons?i=kali,linux,c,cpp,cs,python,mysql,git" />
 </p>
 
 ---
