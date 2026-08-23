@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=50&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Hello%2C+my+name+is;Sama+Ramadan" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Guelph_Cyber_Security_Society-Secretary-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</p>
-
 ---
 
 ## My skills are..
