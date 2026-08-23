@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=40&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Sama+Ramadan;CS+%40+Guelph;Cybersecurity+%2B+ML;always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=40&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Hello%2C+my+name+is+Sama+Ramadan;CS+%26+Psychology+student" />
 </p>
 
 <p align="center">
@@ -7,6 +7,8 @@
 </p>
 
 ---
+
+## My skills are..
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -36,6 +38,8 @@
 </p>
 
 ---
+
+## Connect With Me!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samaramadan/">
